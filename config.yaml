@@ -1,0 +1,10 @@
+DRIVER_PATH: '/usr/local/bin/chromedriver'
+DRIVER_TIMEOUT: 60
+SEARCH_INPUT_PLACEHOLDER: 'Procurar ou começar uma nova conversa'
+SEARCH_KW: 'chat.whatsapp.com'
+WEB_CLIENT_LOAD_TIME: [20, 25]
+SEARCH_LOAD_TIME: [20, 25]
+N_SCROLLS: [2, 3]
+SCROLL_INTERVAL: [1, 2]
+SCROLL_LOAD_TIME: [20, 25]
+INVITE_INFO_INTERVAL: [2, 4]
